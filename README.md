@@ -12,7 +12,7 @@
  
  🌱 I’m currently learning **Docker, AWS, and Redis**
 
-⚡ Fun fact **I like to play basketball!**
+⚡ Fun fact **I like to play basketball, cook, and be outdoors!**
 
  </div>
  
