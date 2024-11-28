@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **an AI auditing startup**
  
- 🌱 I’m currently learning **Docker, AWS, and Redis**
+ 🌱 I’m currently learning **Docker, Kafka, and SnowFlake**
 
 ⚡ Fun fact: **I bring the same energy to coding as I do on the basketball court!**
 
