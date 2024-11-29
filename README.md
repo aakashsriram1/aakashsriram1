@@ -2,7 +2,7 @@
    Hi There! I am Aakash Sriram
 </h1>
 
-<h3 align="center">A passionate software developer & student @ UC Santa Barbara <h3>
+<h3 align="center">A passionate  developer & student @ UC Santa Barbara <h3>
 
 <br/>
 
