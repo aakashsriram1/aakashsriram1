@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an AI auditing startup**
+ 🔭 I’m currently working with **Clay Finance** as an intern
  
  🌱 I’m currently learning **Docker, Kafka, and SnowFlake**
 
