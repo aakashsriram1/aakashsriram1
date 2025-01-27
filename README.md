@@ -8,11 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working with **Clay Finance** as an intern
- 
+
  🌱 I’m currently learning **Docker, Kafka, and SnowFlake**
 
-⚡ Fun fact: **I bring the same energy to coding as I do on the basketball court!**
 
  </div>
  
