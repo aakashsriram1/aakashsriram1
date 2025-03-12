@@ -9,7 +9,7 @@
 <div align="center">
  
 
- 🌱 I’m currently learning **Docker, Kafka, and SnowFlake**
+ 🌱 I’m currently learning **AWS**
 
 
  </div>
