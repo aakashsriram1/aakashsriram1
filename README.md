@@ -9,7 +9,7 @@
 <div align="center">
  
 
- 🌱 I’m currently learning **AWS**
+ 🌱 I’m currently learning **Spark, Kafka**
 
 
  </div>
