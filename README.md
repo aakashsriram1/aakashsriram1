@@ -1,41 +1,11 @@
-<h1 align="center">
-   Hi There! I am Aakash Sriram
-</h1>
+# Aakash Sriram
 
-<h3 align="center">A passionate  developer & student @ UC Santa Barbara <h3>
+MS AI @ Carnegie Mellon (Aug 2025) · BS Data Science @ UC Santa Barbara
 
-<br/>
+Building at the intersection of ML and systems.
+Currently: algorithmic trading research + open source quant tooling.
 
-<div align="center">
- 
+**PRATE** — shipped a mobile app using Vision Transformers for physique analytics.
+100 beta users · FastAPI · PyTorch · WebSockets · React Native
 
- 🌱 I’m currently learning **Go**
-
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:aakashsriram@ucsb.edu">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/aakashsriram/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://aakashsriram.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<br/>
-<hr/>
-
-<br/>
+[LinkedIn](https://linkedin.com/in/aakashsriram) · [Portfolio](https://aakashsriram.vercel.app) · aakashsriram@ucsb.edu
