@@ -11,7 +11,7 @@ Past: ML Intern @ Rakuten · Data Analyst Intern @ Amazon · SWE Intern @ Pasal
 
 **Fun facts:**
 - I love to travel
-- I have a dog
+- Caffine addiction 
 - Hobbies: basketball, gym, building things
 
 ---
