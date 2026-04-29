@@ -4,8 +4,8 @@
 
 I build things at the intersection of technology and finance
 
-Currently building **Loom** (userspace thread scheduler in C++) and 
-**Basis** (cross-exchange arbitrage system).
+Currently building **Redix** (high-performance in-memory Store in C++) and 
+**Basis** (cross-exchange crypto arbitrage system).
 
 Past: ML Intern @ Rakuten · Data Analyst Intern @ Amazon · SWE Intern @ Pasal
 
