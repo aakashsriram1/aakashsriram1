@@ -1,11 +1,17 @@
-# Aakash Sriram
+Hey, I'm Aakash 👋
 
-MS AI @ Carnegie Mellon (Aug 2025) · BS Data Science @ UC Santa Barbara
+Incoming MS AI @ Carnegie Mellon · BS Data Science @ UC Santa Barbara
 
-Building at the intersection of ML and systems.
-Currently: algorithmic trading research + open source quant tooling.
+I like to build things in the intersection of finance and technology
 
-**PRATE** — shipped a mobile app using Vision Transformers for physique analytics.
-100 beta users · FastAPI · PyTorch · WebSockets · React Native
 
-[LinkedIn](https://linkedin.com/in/aakashsriram) · [Portfolio](https://aakashsriram.vercel.app) · aakashsriram@ucsb.edu
+Im currently Building **Loom** (userspace thread scheduler in C++),  **Basis** 
+(cross-exchange arbitrage system), and PawTrack.
+
+Past: ML Intern @ Rakuten · SWE Intern @ Amazon · SWE Intern @ Pasal
+
+Fun facts:
+- I love to travel
+- I have a dog
+- Hobbies: basketball, gym, building things
+[LinkedIn](https://linkedin.com/in/aakashsriram) · 
